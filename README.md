@@ -5,4 +5,4 @@ Disseny en Moviment
 [Bases](https://animalcoi.com/edicio-2026/disseny-en-moviment/)
 
 ## Procés
-1. [Primer esbós]().
+1. [Primer esbós](obj2/obj2.pde).
